@@ -15,12 +15,23 @@
     
 #     Table of Contents
     
-[Installation](#Installation)
-[Usage](#Usage)
-[License](#License)
-[Contributors](#Contributors)
-[Tests](#Tests)
-[Questions](#Questions)
+
+* [Installation](#Installation)
+
+
+* [Usage](#Usage)
+
+
+* [License](#License)
+
+
+* [Contributors](#Contributors)
+
+
+* [Tests](#Tests)
+
+
+* [Questions](#Questions)
           
     
     
@@ -34,21 +45,23 @@
     
 #    Usage
     
-            This is a test for this assignment
+            This is a test for my   This is a test for this assignment
             
             
     
             
 #     Contributors
     
-            Marisa Hanna
+              Marisa Hanna
 
 
      
 #     License
     
-        This project is licensed under the MIT License. See the [License](https://choosealicense.com/licenses/mit/) for details.
-            
+        This project is licensed under the MIT License. See the link below for details.
+  
+
+* [License](https://choosealicense.com/licenses/mit/)         
             
 #      Tests
     
@@ -59,5 +72,8 @@
     
         Please contact me for further questions.
             
-[GitHub](https://github.com/MarisaHanna)
-[you@gmail.com](mailto:you@gmail.com)
+
+* [GitHub](https://github.com/MarisaHanna)
+
+
+* [you@gmail.com](mailto:you@gmail.com)

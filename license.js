@@ -20,12 +20,17 @@ const generateREADME = (data, getFetch) => {
     
 #     Table of Contents
     
-[Installation](#Installation)
-[Usage](#Usage)
-[License](#License)
-[Contributors](#Contributors)
-[Tests](#Tests)
-[Questions](#Questions)
+\n* [Installation](#Installation)
+
+\n* [Usage](#Usage)
+
+\n* [License](#License)
+
+\n* [Contributors](#Contributors)
+
+\n* [Tests](#Tests)
+
+\n* [Questions](#Questions)
           
     
     
@@ -52,8 +57,11 @@ const generateREADME = (data, getFetch) => {
      
 #     License
     
-        This project is licensed under the ${data.license}. See the [License](${pathURL}) for details.
-            
+        This project is licensed under the ${data.license}. See the link below for details.
+  
+\n* [License](${pathURL})  
+
+
             
 #      Tests
     
@@ -64,8 +72,9 @@ const generateREADME = (data, getFetch) => {
     
         Please contact me for further questions.
             
-[GitHub](${getFetch.html_url})
-[${data.email}](mailto:${data.email})`)
+\n* [GitHub](${getFetch.html_url})
+
+\n* [${data.email}](mailto:${data.email})`)
     
   
     return result;
