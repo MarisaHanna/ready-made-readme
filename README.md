@@ -10,8 +10,7 @@
 
 #       Video
 
-[]("https://www.youtube.com/embed/HGLTu23K0mI")
-
+[YouTube Tutorial](https://youtu.be/HGLTu23K0mI)
 
 #       Languages Used
 
