@@ -1,0 +1,25 @@
+{
+  "name": "ready-made-readme",
+  "version": "1.0.0",
+  "description": "readme generator",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^8.0.0",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarisaHanna/ready-made-readme.git"
+  },
+  "author": "Marisa Hanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarisaHanna/ready-made-readme/issues"
+  },
+  "homepage": "https://github.com/MarisaHanna/ready-made-readme#readme"
+}
